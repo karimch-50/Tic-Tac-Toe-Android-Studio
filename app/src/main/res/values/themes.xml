@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base application theme. -->
+    <style name="Theme.Tic_tac_toc" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+<!--    <selector >-->
+<!--        <item>-->
+<!--            <shape android:shape="rectangle">-->
+<!--                <solid android:color="#ffffff"/>-->
+<!--                <corners android:radius="10dp" />-->
+<!--                <stroke android:width="2dp" android:color="#3bbdfa" />-->
+<!--            </shape>-->
+<!--        </item>-->
+<!--    </selector>-->
+
+<!--    <selector >-->
+<!--        <item android:state_pressed="true" >-->
+<!--            <shape>-->
+<!--                <gradient android:startColor="@color/yellow1" android:endColor="@color/yellow2" android:angle="270" />-->
+<!--                <stroke android:width="1dp" android:color="@color/grey05" />-->
+<!--                <corners android:radius="20dp" />-->
+<!--            </shape>-->
+<!--        </item>-->
+<!--        <item android:state_focused="true" >-->
+<!--            <shape>-->
+<!--                <gradient android:endColor="@color/orange4" android:startColor="@color/orange5" android:angle="270" />-->
+<!--                <stroke android:width="1dp" android:color="@color/grey05" />-->
+<!--                <corners android:radius="20dp" />-->
+<!--            </shape>-->
+<!--        </item>-->
+<!--        <item>-->
+<!--            <shape>-->
+<!--                <gradient android:endColor="@color/white1" android:startColor="@color/white2" android:angle="270" />-->
+<!--                <stroke android:width="1dp" android:color="@color/grey05" />-->
+<!--                <corners android:radius="20dp" />-->
+<!--            </shape>-->
+<!--        </item>-->
+<!--    </selector>-->
+
+</resources>
